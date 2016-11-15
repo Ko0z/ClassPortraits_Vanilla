@@ -1,4 +1,4 @@
-## Interface: 30000
+## Interface: 11210
 ## Title: ClassPortraits
 ## Notes: Shows class portraits of player characters
 ClassPortraits.lua
