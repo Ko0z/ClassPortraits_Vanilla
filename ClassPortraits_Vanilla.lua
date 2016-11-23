@@ -1,6 +1,6 @@
 local function log(msg) DEFAULT_CHAT_FRAME:AddMessage(msg) end -- alias for convenience
 local ClassPortraits = CreateFrame("Frame", nil, UIParent);
-local iconPath="Interface\\Addons\\ClassPortraits\\UI-CLASSES-CIRCLES"
+local iconPath="Interface\\Addons\\ClassPortraits_Vanilla\\UI-CLASSES-CIRCLES"
 -- copied from TBC Client 2.4.3
 local CLASS_BUTTONS = {
 	["HUNTER"] = {
